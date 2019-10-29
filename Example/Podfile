@@ -1,6 +1,0 @@
-use_frameworks!
-target 'A_Extension_Tests' do
-  pod 'A_Extension', :path => '../'
-  
-  
-end
